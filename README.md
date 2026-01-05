@@ -1,5 +1,5 @@
 # 4-digit-7-segment-display-playground
-This is a bit rough program which you could use to understand how 4 digit 7 segment display is working.
+This is a bit rough program which you could use to understand how 4 digit 7 segment display is working. Please, refer to the datasheet of a display I am using for further context of the current program.
 
 ## Usefull instructions
 1. **segmentPins** represent pins on Arduino, so either connect in similar manner or change the numbers appropriately based on the comments for segments.
